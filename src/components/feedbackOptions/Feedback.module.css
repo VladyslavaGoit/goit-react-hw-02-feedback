@@ -1,9 +1,9 @@
-.button__box {
+.optionsList {
   display: flex;
   gap: 10px;
 }
 
-.feedback__button {
+.optionButton {
   padding: 5px 25px;
   border-radius: 8px;
 }
